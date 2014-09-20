@@ -1,0 +1,27 @@
+
+div{width: 640px;
+	background-color: #FAFAFA;
+	padding:5px;
+}
+
+h1 {font-family: sans-serif, Verdana;
+	font-size: 30px;
+	color: #FF0000;}
+
+h2{ height: 30px;
+	background-color: #E7E7E7;
+	font-size: 23px;
+	font-family: sans-serif, Verdana;
+	color: #000000;
+}
+h3{ height: 25px;
+	background-color: #E7E7E7;
+	font-size: 18px;
+	font-family: sans-serif, Verdana;
+	color: #000000;
+}
+
+
+img {padding: 5px;}
+
+td { vertical-align: top;}
