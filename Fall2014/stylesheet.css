@@ -8,20 +8,20 @@ h1 {font-family: sans-serif, Verdana;
 	font-size: 30px;
 	color: #FF0000;}
 
-h2{ height: 30px;
-	background-color: #E7E7E7;
-	font-size: 23px;
+h2 { 
+	background-color: none;
 	font-family: sans-serif, Verdana;
-	color: #000000;
+	color: #c2c2c2;
 }
 h3{ height: 25px;
-	background-color: #E7E7E7;
+	background-color: #6dcff5;
 	font-size: 18px;
 	font-family: sans-serif, Verdana;
-	color: #000000;
+	color: #ffffff;
 }
 
 
 img {padding: 5px;}
 
-td { vertical-align: top;}
+td { vertical-align: center;
+}
