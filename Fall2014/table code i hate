@@ -1,0 +1,60 @@
+table code i hate 
+
+
+
+<!--
+
+				<table align="left">
+					
+
+					<tr>
+						<td style="width200"></td>
+						<td style="width200"></td>
+						<td style="width200"></td>
+					</tr>
+					<tr> 
+						<td colspan="3" style="<text-align: center;"><span style="font-size: 24px">	Main Articles: </span>
+						</td>
+					</tr>
+					<tr>
+						<td> <img style="width: 100px;" src="photos/200x200congress.png"></td>
+						<td colspan="2"> A recap of the 2014 Creative Dance Congress by Sarah Boone</td>
+					</tr>
+					<tr>
+						<td colspan="2"> Creative Dance travels to Vietnam by Kareene Koo </td>
+						<td colspan="1"><img style="width: 100px; align: left;" src="photos/200x200hagar.png"> </td> 
+						 
+					</tr>
+
+
+					
+						<td> <img style="width: 150px;" src="photos/200x200teachertrain.png"> </td> 
+						<td> Reporting on the 2014 Teacher Training in Tucson, AZ by Melissa S </td>
+					</tr>
+					<tr style="background-color: #e6f3f7">
+
+						<td> Creative dance travels to Vietnam by Kareene Koo </td>
+						<td> <img style="width: 150px;" src="photos/200x200hagar.png"> </td> 
+						
+						<td> Continued success teaching at Hampshire College by Griff Goehring </td>
+						<td> <img style="width: 150px;" src="photos/300x300_griff1.png"> </td> 
+					</tr>
+					<tr>
+
+						<td> <img style="width: 150px;" src="photos/200x200board.png"> </td> 
+						<td> Letter from the Board </td>
+						
+						<td> <img style="width: 150px;" src="photos/200x200hawaii.png"> </td> 
+						<td> Next year's Congress . . . in Hawaii! </td>
+					</tr>
+				</tbody>
+
+				</table>
+
+
+
+
+
+
+
+
