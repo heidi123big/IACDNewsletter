@@ -1,18 +1,83 @@
 
-div{width: 640px;
+//*div{width: 640px;
 	background-color: #FAFAFA;
-	padding:5px;
+	padding:5px; *//
 }
 
 h1 {font-family: sans-serif, Verdana;
 	font-size: 30px;
 	color: #FF0000;}
 
-h2 { 
-	background-color: none;
-	font-family: sans-serif, Verdana;
-	color: #c2c2c2;
+.textcontain { background-color:#99E6E6;
+			   padding: none;
+
 }
+
+.author {  font-size: 14px;
+		   font-family: sans-serif, Verdana;
+		   padding-bottom: 8px;
+		   padding-top: 8px;
+		   margin-left: 30px;
+		}
+
+.header { 
+			padding-left: 30px;
+			font-size: 30px;
+			font-family: sans-serif, Verdana;
+			color: #FFFFFF;
+	}
+
+.artcontain {
+			margin-top: 5px;
+			margin-bottom: 5px;
+			padding: 8px;
+			background-color: #d6e7d4;
+}
+
+.center {margin-right: auto;
+		 margin-left: auto;}
+
+.artheader { 
+			
+			font-size: 20px;
+			font-family: sans-serif, Verdana;
+			color: #000000;
+}
+.caltext {  font-size: 20px;
+			font-family: sans-serif, Verdana;
+			color: #ffffff;
+			padding-left: 28px;
+}
+.calcontain { 
+			margin-top: 5px;
+			margin-bottom: 5px;
+			padding: 8px;
+			background-color: #6dcff6;
+}
+.vietnamtable {
+	background-color: #ffffff;
+	font-size: 11px;
+	font-family: sans-serif;
+	vertical-align: top;
+	padding:5px;
+}
+.indent { padding-left: 40px;
+		  padding-right: 40px;}
+	
+.announcment {
+			text-align: top;
+			vertical-align: top;
+			padding: 15px;
+}
+.clipboard { 
+			padding:15px;
+
+
+}
+
+h2 {font-family: sans-serif, Verdana;
+}
+
 h3{ height: 25px;
 	background-color: #6dcff5;
 	font-size: 18px;
@@ -21,7 +86,6 @@ h3{ height: 25px;
 }
 
 
-img {padding: 5px;}
+//*img {padding: 5px;} *//
 
-td { vertical-align: center;
-}
+
