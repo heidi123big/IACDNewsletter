@@ -4,7 +4,7 @@
 	padding:5px; *//
 }
 
-h1 {font-family: sans-serif, Verdana;
+h1 {font-family: sans-serif, Tahoma;
 	font-size: 30px;
 	color: #FF0000;}
 
@@ -15,7 +15,7 @@ h1 {font-family: sans-serif, Verdana;
 }
 
 .author {  font-size: 14px;
-		   font-family: sans-serif, Verdana;
+		   font-family: sans-serif, Tahoma;
 		   padding-bottom: 8px;
 		   padding-top: 8px;
 		   margin-left: 38px;
@@ -24,8 +24,15 @@ h1 {font-family: sans-serif, Verdana;
 .header { 
 			padding-left: 30px;
 			font-size: 22px;
-			font-family: sans-serif, Verdana;
+			font-family: sans-serif, Tahoma;
 			color: #FFFFFF;
+	}
+.member { 
+			padding-left: 30px;
+			font-size: 18px;
+			font-family: sans-serif, Tahoma;
+			color: #FFFFFF;
+			text-align: center;
 	}
 
 .artcontain {
@@ -35,21 +42,20 @@ h1 {font-family: sans-serif, Verdana;
 			padding-bottom: 8px;
 			padding-right: 8px;
 			padding-left: 30px;
-
-			background-color: #d6e7d4;
+			background-color: #a3d39c;
 }
 
 .center {margin-right: auto;
 		 margin-left: auto;}
 
 .artheader { 
-			
+			font-weight: bold;
 			font-size: 18px;
-			font-family: sans-serif, Verdana;
+			font-family: sans-serif, Tahoma;
 			color: #000000;
 }
 .caltext {  font-size: 20px;
-			font-family: sans-serif, Verdana;
+			font-family: sans-serif, Tahoma;
 			color: #ffffff;
 			padding-left: 28px;
 }
@@ -70,24 +76,31 @@ h1 {font-family: sans-serif, Verdana;
 		  padding-right: 40px;}
 	
 .announcment {
-			: 100%;
+			
 			text-align: top;
 			vertical-align: top;
 			padding: 15px;
 }
 .clipboard { 
 			padding:15px;
-
-
 }
 
-h2 {font-family: sans-serif, Verdana;
+.poem {
+	float: right;
+	margin: 10px;
+	width: 45%;
+	font-size:14px;
+	background-color: #ECECEC;
+	padding-left: 10px;
+}
+
+h2 {font-family: sans-serif, Tahoma;
 }
 
 h3{ height: 25px;
 	background-color: #6dcff5;
 	font-size: 18px;
-	font-family: sans-serif, Verdana;
+	font-family: sans-serif, Tahoma;
 	color: #ffffff;
 }
 
